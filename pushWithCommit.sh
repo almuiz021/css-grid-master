@@ -9,7 +9,7 @@ fi
 message="$1"
 
 git add .
-git commit -m message 
+git commit -m "$message"
 
 if git push ; then
   clear

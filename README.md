@@ -22,7 +22,7 @@ modular SCSS architecture, and advanced CSS Grid techniques.
 
 ## Technologies Used
 
-- **HTML5**: Semantic markup for the structure.
+- **HTML5**: Semantic markup for the structure and SEO.
 - **CSS Grid**: For creating complex, responsive layouts.
 - **SCSS**: For modular and maintainable stylesheets with features like
   variables, mixins, and nesting.
