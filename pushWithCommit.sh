@@ -16,5 +16,5 @@ if git push ; then
   clear
   echo "Push successful: $message"   
 else
-  echo "Push failed"
+  echo "Push failed: $message"
 fi
