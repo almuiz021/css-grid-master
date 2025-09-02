@@ -10,4 +10,11 @@ message="$1"
 
 git add .
 git commit -m message 
-git push
+# git push
+
+if git push ; then
+  clear
+  echo "Push successful"
+else
+  echo "Push failed"
+fi
