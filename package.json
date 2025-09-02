@@ -1,5 +1,6 @@
 {
-  "name": "Nexter",
+  "name": "nexter",
+  "author": "Muiz",
   "version": "1.0.0",
   "description": "Nexter webpage",
   "main": "index.js",
@@ -13,7 +14,6 @@
     "compress:css": "sass css/style.prefix.css css/style.css --style=compressed",
     "build:css": "npm-run-all compile:sass concat:css prefix:css compress:css"
   },
-  "author": "Muiz",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
